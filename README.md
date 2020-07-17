@@ -11,7 +11,9 @@
 
 * pkg install python2
 
-* pip2 install requests mechanize
+* pip2 install mechanize
+
+* pip2 install requests
 
 * pkg install git
 
