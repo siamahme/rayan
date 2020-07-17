@@ -68,7 +68,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;98mSmart Boy Easin
 \033[1;96mInstagram \033[1;93m: \033[1: md_easin
 \033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Rayan404abir/SmartBoy
 \033[1;91m======================================="""
 
 def tik():
@@ -109,7 +109,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
 \033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Rayan404abir/SmartBoy
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -180,8 +180,8 @@ ________________¶¶¶_______________¶¶¶¶____________
 ________________¶¶¶_______________¶¶¶¶____________
 _______________¶¶¶¶_______________¶¶¶¶____________
 _______________¶¶¶¶_______________________________
-CorrectUsername = "easin"
-CorrectPassword = "easin"
+CorrectUsername = "rayan"
+CorrectPassword = "abir12"
 
 loop = 'true'
 while (loop == 'true'):
